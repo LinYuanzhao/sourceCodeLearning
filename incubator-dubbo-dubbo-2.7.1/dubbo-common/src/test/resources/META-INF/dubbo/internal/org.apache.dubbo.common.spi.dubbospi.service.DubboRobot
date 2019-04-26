@@ -1,0 +1,2 @@
+optimusPrime = org.apache.dubbo.common.spi.dubbospi.impl.OptimusPrime
+bumblebee = org.apache.dubbo.common.spi.dubbospi.impl.Bumblebee
